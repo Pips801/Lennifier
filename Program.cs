@@ -14,8 +14,6 @@ namespace lennifier
         [STAThread]
         static void Main(string[] args)
         {
-            if (args[0].Length < 0)
-            {
                 switch (args[0])
                 {
                     case "-tableflip":
@@ -95,7 +93,7 @@ namespace lennifier
                         System.Windows.Forms.Clipboard.SetText(@"( ͡° ͜ʖ ͡°)");
                         break;
                 }
-            }
+            
                 
             
 
