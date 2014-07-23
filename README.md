@@ -1,21 +1,37 @@
 Lennifier
+
 =========
+
 -tableflip      : (╯°□°）╯︵ ┻━┻
+
 -tabledown      : ┬─┬ノ( º _ ºノ)
+
 -personflip     : （╯°□°）╯︵( .o.)
+
 -lenny          : ( ͡° ͜ʖ ͡°)
+
 -stronglenny    : ᕦ( ͡° ͜ʖ ͡°)ᕤ
+
 -donger         : ヽ༼ຈل͜ຈ༽ﾉ
+
 -whatever       : ¯\_(ツ)_/¯
+
 -magic          : (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
+
 -bear           : ʕ•ᴥ•ʔ
+
 -eyy            : (☞ﾟヮﾟ)☞
+
 -interject      : (°ロ°)☝
+
+
 -disaproving    : ಠ_ಠ
 
 
 and my favorite,
+
 -lennysnake :
+
 ╚═( ͡° ͜ʖ ͡°)═╝
 ╚═(███)═╝
 ╚═(███)═╝
