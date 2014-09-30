@@ -1,6 +1,14 @@
-Lennifier
+<h1>Lennifier</h1>
+a program to raise em' ヽ༼ຈل͜ຈ༽ﾉ
 
-=========
+<h2>How to use</h2>
+Use a command line or a batch program. For example
+```
+  lennifier.exe -lenny
+```
+When ran or bound to a macro, it will set your clipboard to the lenny face, or whatever else you specify from the list below.
+
+<h2>Arguments</h2>
 
 -tableflip      : (╯°□°）╯︵ ┻━┻
 
