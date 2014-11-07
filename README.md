@@ -22,7 +22,7 @@ When ran or bound to a macro, it will set your clipboard to the lenny face, or w
 
 -donger         : ヽ༼ຈل͜ຈ༽ﾉ
 
--whatever       : ¯\_(ツ)_/¯
+-whatever       : ¯\\\_(ツ)_/¯
 
 -magic          : (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
 
