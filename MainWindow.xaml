@@ -1,0 +1,22 @@
+<Window x:Name="frame" x:Class="Lennifier_2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lennifier 2.0" Height="329" Width="330" ResizeMode="NoResize" WindowStartupLocation="Manual" LostFocus="closeProgram" Deactivated="closeProgram" KeyUp="numpadPress" AllowsTransparency="True" WindowStyle="None" Topmost="True">
+    <Window.Background>
+        
+        <SolidColorBrush Opacity="0.5" Color="Black"></SolidColorBrush>
+        
+    </Window.Background>
+    <Grid Margin="0" ToolTip="Press the button for the face you want" RenderTransformOrigin="0.5,0.5">
+        <Button x:Name="b1" Content="&lt;1&gt;" Margin="10,10,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold" ToolTip="&lt;1&gt;" Click="buttonPress" FontSize="16"/>
+        <Button x:Name="b2" Content="&lt;2&gt;" Margin="115,10,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold" ToolTip="&lt;2&gt;" Click="buttonPress" FontSize="16"/>
+        <Button x:Name="b3" Content="&lt;3&gt;" Margin="220,10,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold" ToolTip="&lt;3&gt;" Click="buttonPress" FontSize="16"/>
+        <Button x:Name="b4" Content="&lt;4&gt;" Margin="10,115,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold" ToolTip="&lt;4&gt;" Click="buttonPress" FontSize="16"/>
+        <Button x:Name="b5" Content="&lt;5&gt;" Margin="115,115,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold" ToolTip="&lt;5&gt;" Click="buttonPress" FontSize="16"/>
+        <Button x:Name="b6" Content="&lt;6&gt;" Margin="220,115,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold" ToolTip="&lt;6&gt;" Click="buttonPress" FontSize="16"/>
+        <Button x:Name="b7" Content="&lt;7&gt;" Margin="10,220,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold" ToolTip="&lt;7&gt;" Click="buttonPress" FontSize="16"/>
+        <Button x:Name="b8" Content="&lt;8&gt;" Margin="115,220,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold" ToolTip="&lt;8&gt;" Click="buttonPress" FontSize="16"/>
+        <Button x:Name="b9" Content="&lt;9&gt;" Margin="220,220,0,0" VerticalAlignment="Top" Width="100" Height="100" IsTabStop="False" HorizontalAlignment="Left" FontFamily="Arial" FontWeight="Bold"  ToolTip="&lt;9&gt;" Click="buttonPress" FontSize="16"/>
+
+    </Grid>
+</Window>
