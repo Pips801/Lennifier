@@ -1,79 +1,15 @@
-<h1>Lennifier</h1>
+<h1>Lennifier 2.0!</h1>
 a program to raise em' ヽ༼ຈل͜ຈ༽ﾉ
 
 <h2>How to use</h2>
-Use a command line or a batch program. For example
-```
-  lennifier.exe -lenny
-```
-When ran or bound to a macro, it will set your clipboard to the lenny face, or whatever else you specify from the list below.
+ 1. Download exe and stick it in some easy to access directory.
+ 2. Bind one of your macros to run the program.
+ 3. Run program.
+ 4. Select the face you want. 
+  1. You can use `1` and `2` on top of your keyboard to swap inbetween faces.
+  2. You can use the number pad to select the corresponding face, or just click it.
+  3. You can press `esc` to close the program.
+ 5. The face has now been copied to your clipboard.
+ 6. You can now ~~shitpost~~ send memes. 
 
-<h2>Arguments</h2>
-
--tableflip      : (╯°□°）╯︵ ┻━┻
-
--tabledown      : ┬─┬ノ( º _ ºノ)
-
--personflip     : （╯°□°）╯︵( .o.)
-
--lenny          : ( ͡° ͜ʖ ͡°)
-
--stronglenny    : ᕦ( ͡° ͜ʖ ͡°)ᕤ
-
--donger         : ヽ༼ຈل͜ຈ༽ﾉ
-
--whatever       : ¯\\\_(ツ)_/¯
-
--magic          : (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
-
--bear           : ʕ•ᴥ•ʔ
-
--eyy            : (☞ﾟヮﾟ)☞
-
--interject      : (°ロ°)☝
-
-
--disaproving    : ಠ_ಠ
-
-
-and my favorite,
-
--lennysnake :
-
-╚═( ͡° ͜ʖ ͡°)═╝
-
-╚═(███)═╝
-
-╚═(███)═╝
-
-.╚═(███)═╝
-
-..╚═(███)═╝
-
-…╚═(███)═╝
-
-…╚═(███)═╝
-
-..╚═(███)═╝
-
-.╚═(███)═╝
-
-╚═(███)═╝
-
-.╚═(███)═╝
-
-..╚═(███)═╝
-
-…╚═(███)═╝
-
-…╚═(███)═╝
-
-…..╚(███)╝
-
-……╚(██)╝
-
-………(█)
-
-……….*
-
-
+  
